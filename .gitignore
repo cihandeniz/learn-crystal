@@ -1,0 +1,13 @@
+# vscode files
+.vscode
+.vs
+
+# Vim swap files
+*.swp
+
+# Crystal files
+/docs/
+/lib/
+/bin/
+/.shards/
+*.dwarf

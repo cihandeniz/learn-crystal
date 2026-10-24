@@ -1,0 +1,13 @@
+name: learn_crystal
+version: 0.1.0
+
+authors:
+  - Cihan Deniz
+
+targets:
+  hello_world:
+    main: src/learn_crystal.cr
+
+crystal: ">= 1.22.1"
+
+license: MIT
